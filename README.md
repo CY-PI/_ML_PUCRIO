@@ -5,4 +5,4 @@ https://colab.research.google.com/github/CY-PI/_ML_PUCRIO/blob/main/MVP_ML_Analy
 
 OU
 
-2. Clicando no projeto acima (MVP_ML_Analytics_20261_Cyntia.ipynb), e depois clicando no botão "Open Collab" no topo do notebook.
+2. Clicando no projeto acima (MVP_ML_Analytics_20261_Cyntia.ipynb), e depois clicando no botão "Open in Colab" no topo do notebook.
